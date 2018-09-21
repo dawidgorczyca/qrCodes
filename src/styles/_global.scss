@@ -1,0 +1,16 @@
+@import '_colors.scss';
+
+body {
+  font-family: 'Roboto';
+  margin: 0;
+}
+
+.content-toolbar {
+  padding: 15px 20px 18px;
+  box-sizing: border-box;
+  background-color: $gray_light;
+
+  .btn {
+    margin-right: 5px;
+  }
+}

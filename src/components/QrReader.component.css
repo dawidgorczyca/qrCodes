@@ -1,0 +1,31 @@
+.qr-reader {
+  width: 100%;
+  margin-top: 10px;
+  box-sizing: border-box;
+  padding: 15px;
+  border-radius: 6px;
+  background-color: #F6F6F6;
+  text-align: center; }
+  .qr-reader p {
+    font-size: 18px;
+    color: #545454;
+    font-weight: 800; }
+
+.qr-reader-video {
+  overflow: hidden;
+  border-radius: 4px;
+  max-width: 480px;
+  margin: 0px auto; }
+
+.qr-reader-results ul {
+  width: 100%;
+  margin: 0 0 15px 0;
+  padding: 0px;
+  text-align: left;
+  list-style: none; }
+  .qr-reader-results ul li {
+    width: 100%;
+    font-size: 14px;
+    color: #979797;
+    padding: 11px 0 10px;
+    border-bottom: 1px dashed #979797; }

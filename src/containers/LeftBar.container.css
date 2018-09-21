@@ -1,0 +1,25 @@
+.section-leftbar {
+  order: 0;
+  flex: 0 1 200px;
+  align-self: auto;
+  background-color: #334679;
+  color: white;
+  box-sizing: border-box;
+  padding: 30px 20px;
+  margin-top: 32px; }
+  .section-leftbar ul {
+    list-style: none;
+    width: 100%;
+    margin: 20px 0 0 0;
+    padding: 0px; }
+    .section-leftbar ul li {
+      width: 100%; }
+      .section-leftbar ul li a {
+        color: #CDDAFF;
+        text-decoration: none; }
+        .section-leftbar ul li a:hover {
+          color: white; }
+
+.section-leftbar__title {
+  font-size: 24px;
+  font-weight: 800; }

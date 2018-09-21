@@ -1,0 +1,37 @@
+@import '../styles/_colors.scss';
+
+.section-leftbar {
+  order: 0;
+  flex: 0 1 200px;
+  align-self: auto;
+  background-color: $primary_dark;
+  color: white;
+  box-sizing: border-box;
+  padding: 30px 20px;
+  margin-top: 32px;
+
+  ul {
+    list-style: none;
+    width: 100%;
+    margin: 20px 0 0 0;
+    padding: 0px;
+
+    li {
+      width: 100%;
+
+      a {
+        color: $primary_light;
+        text-decoration: none;
+
+        &:hover {
+        color: white;
+        }
+      }
+    }
+  }
+}
+
+.section-leftbar__title {
+  font-size: 24px;
+  font-weight: 800;
+}

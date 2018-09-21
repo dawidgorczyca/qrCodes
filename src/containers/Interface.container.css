@@ -1,0 +1,17 @@
+.section-interface {
+  width: 100vw;
+  height: 100vh;
+  overflow: hidden;
+  display: flex;
+  flex-direction: row;
+  flex-wrap: nowrap;
+  justify-content: flex-start;
+  align-content: stretch;
+  align-items: stretch; }
+
+.section-content {
+  order: 0;
+  flex: 1 1 auto;
+  align-self: auto;
+  margin-top: 32px;
+  overflow-x: auto; }

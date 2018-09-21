@@ -1,0 +1,24 @@
+{
+  "locale": "en-en",
+  "TranslationsSwitch": {
+    "CHANGE_LANGUAGE": "Change language"
+  },
+  "Topbar": {
+    "logo": "VDO"
+  },
+  "Sidebar": {
+    "header": "DLD Diagnostics",
+    "menuItems": {
+      "home": "Home"
+    }
+  },
+  "Title": {
+    "HELLO": "Hello {{name}}"
+  },
+  "Counter": {
+    "COUNT": [
+      "{{n}} item",
+      "{{n}} items"
+    ]
+  }
+}

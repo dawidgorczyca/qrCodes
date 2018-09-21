@@ -1,0 +1,18 @@
+@import '../styles/_colors.scss';
+
+.section-topbar {
+  width: 100vw;
+  background-color: $gray_dark;
+  position: absolute;
+  top: 0;
+  left: 0;
+  height: 32px;
+  box-sizing: border-box;
+  padding: 7px 20px;
+}
+
+.topbar__logo {
+  font-weight: 800;
+  font-size: 16px;
+  color: $gray_darker;
+}

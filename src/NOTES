@@ -1,0 +1,5 @@
+NOTES:
+-one main repo with the main interface
+-main repo contains localization and main styles
+-one repo per screen
+-screen repos contain only basic styles

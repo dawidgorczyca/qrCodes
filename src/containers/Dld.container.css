@@ -1,0 +1,22 @@
+.content-dld {
+  width: 100%;
+  box-sizing: border-box;
+  padding: 20px; }
+  .content-dld h3 {
+    font-weight: 800;
+    font-size: 24px;
+    color: #545454; }
+
+.content-dld-results ul {
+  list-style: none;
+  margin: 0px;
+  padding: 0px; }
+  .content-dld-results ul li {
+    width: 100%;
+    margin: 4px 0 8px; }
+    .content-dld-results ul li a {
+      margin-left: 20px;
+      color: #4366C7;
+      text-decoration: none; }
+      .content-dld-results ul li a:hover {
+        color: #334679; }
